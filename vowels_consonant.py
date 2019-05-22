@@ -7,4 +7,4 @@ if (x not in string.ascii_lowercase):
 elif(x in v):
     print("Vowel")
 else:
-    print("consonant")
+    print("Consonant")
